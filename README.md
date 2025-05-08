@@ -157,5 +157,5 @@ Drivers:
 # 👤 Author
 
 Vasu Aghera\
-GitHub: \[Vasuaghera\]\
+GitHub: \Vasuaghera\\
 (Replace `your-username` with your GitHub handle)
